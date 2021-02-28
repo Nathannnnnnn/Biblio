@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(102,13): error C2065: 'liste' : identificateur non déclaré
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(102,19): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'maBib'
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(103,1): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(103,1): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(117,16): error C2065: 'liste' : identificateur non déclaré
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(117,22): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'maBib'
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(118,1): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(118,1): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(141,15): error C2065: 'liste' : identificateur non déclaré
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(141,21): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'maBib'
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(142,1): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(142,1): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(170,21): error C2065: 'livre' : identificateur non déclaré
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(170,27): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'monLivre'
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(171,1): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(171,1): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(178,16): error C2065: 'liste' : identificateur non déclaré
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(178,22): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'maBib'
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(179,1): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(179,1): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(191,17): error C2065: 'liste' : identificateur non déclaré
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(191,23): error C2146: erreur de syntaxe : absence de ')' avant l'identificateur 'maBib'
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(192,1): error C2143: erreur de syntaxe : absence de ';' avant '{'
+C:\IUT\Algorithmique\biblio\Biblio\Biblio\Header.h(192,1): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
